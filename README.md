@@ -41,21 +41,8 @@ Together these sensors allow the device to measure a wide range of environmental
 pcb/
 KiCad schematic and PCB layout files
 
-firmware/
-Microcontroller firmware and drivers
-
 images/
 Board photos and layout screenshots
 
 docs/
 Additional design notes and documentation
-
-## Project Status
-
-REV 1.0 prototype PCB completed.
-
-## Author
-
-Hazel Chen
-Mechanical and Electrical Engineering Student
-University of Virginia
